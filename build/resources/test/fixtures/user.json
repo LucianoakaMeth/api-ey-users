@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "name": "FirstNameExample LastNameExample",
+  "email": "email@example.com",
+  "password": "$2a$16$gSv/X20v2iC39eVKrkVfSeM3Ky4PFY3Ww/pOMd7nlYsS8/OnUVsJ6",
+  "phones": [
+    {
+      "number": "946644558",
+      "city_code": "1",
+      "country_code": "57"
+    }
+  ],
+  "created": "16-02-2020 22:34:26",
+  "modified": "16-02-2020 22:35:07",
+  "last_login": "16-02-2020 22:35:07",
+  "token": "eyJhbGciOiJIUzI1NiJ9",
+  "roles": [
+    "ROLE_ADMIN",
+    "ROLE_USER"
+  ],
+  "active": true
+}

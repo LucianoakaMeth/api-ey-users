@@ -1,0 +1,12 @@
+{
+  "name": "FirstNameExample LastNameExample",
+  "email": "email@example.com",
+  "password": "Passwordexampler12",
+  "phones": [
+    {
+      "number": "946644558",
+      "city_code": "1",
+      "country_code": "57"
+    }
+  ]
+}
